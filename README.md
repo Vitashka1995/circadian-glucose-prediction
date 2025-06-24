@@ -12,12 +12,6 @@ We developed a machine learning model based on NHANES 2017–2020 data to invest
 - `requirements.txt`: Python dependencies
 - `data/README.md`: Describes the NHANES data source and access info
 
-## Citation
-
-If you use this project, please cite:
-
-> [Viktoriya Bu-Dager], "Using Machine Learning to Investigate Predictors of Metabolic Dysfunction", 2025.
-
 ## License
 
 MIT License
