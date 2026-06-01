@@ -11,8 +11,7 @@ The final compact model, **Model 5b (XGBoost (+ Interactions, Selected, Pruned))
 
 ## Contents
 
-- `prediction_fasting_glucose.ipynb`: Full code for data processing, feature engineering, and modeling
-- `InvestigatingPredictorsFastingGlucose.ipynb`
+- `InvestigatingPredictorsFastingGlucose.ipynb`: Full code for data processing, feature engineering, and modeling
 - `requirements.txt`: Python dependencies
 - `data/README.md`: Describes the NHANES data source and access info
 
